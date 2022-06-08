@@ -1,0 +1,23 @@
+{
+  "name": "@sticknet/react-native-sketch-canvas",
+  "version": "1.0.0",
+  "description": "react-native-sketch-canvas ===================",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sticknet/react-native-sketch-canvas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/sticknet/react-native-sketch-canvas/issues"
+  },
+  "homepage": "https://github.com/sticknet/react-native-sketch-canvas#readme"
+}
