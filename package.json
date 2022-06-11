@@ -1,6 +1,6 @@
 {
   "name": "@sticknet/react-native-sketch-canvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native-sketch-canvas ===================",
   "main": "index.js",
   "directories": {
